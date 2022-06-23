@@ -1,4 +1,5 @@
 # puppy
+<img src="images/scope.png" width="680px">
 
 ## 使い方
 ### simulink上で制御する
