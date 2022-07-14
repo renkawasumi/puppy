@@ -15,3 +15,6 @@ puppy_param.pyを実行する。詳しくはPUPPY_REV_3_2_1_0_s.pdfを見てく�
 ## memo
 - モータの最大トルクは0.1[N.m]
 - タイヤの最大角速度は44[rad/s]
+
+## 動作動画
+https://www.youtube.com/watch?v=gz4eoUUWi6c
