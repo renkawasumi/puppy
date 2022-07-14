@@ -2,7 +2,10 @@
 <img src="images/scope.png" width="680px">
 
 ## 実行環境
-- R2022a
+- puppy_sim.slx
+  - R2022a
+- 
+
 
 ## 使い方
 ### simulink上で制御する
