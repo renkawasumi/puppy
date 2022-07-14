@@ -14,7 +14,7 @@ K = - place(A,B,p)
 
 eig(A + B*K)
 
-Q = diag([10, 10, 1]);
+Q = diag([10, 20, 21]);
 R = 1;
 
 K_lqr = - lqr(A, B, Q, R)
